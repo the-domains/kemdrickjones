@@ -1,0 +1,28 @@
+name: kemdrickjones
+favicon: null
+layout_spectrum: 0.8212254790123552
+typography_spectrum: 0.25423075119033456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7131817389745265
+  lightness: 0.01892394432798028
+  saturation: 0.9404392833821476
+  rhythmicContrast: 0.476944267982617
+purpose: []
